@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://mau-portfolio-three.vercel.app/",
   name: "Mauricio Dávalos",
   jobDescription: "Web Developer",
   about: `I'm a Software Engineer based in Quito, Ecuador 👨🏻‍💻.
