@@ -32,7 +32,7 @@ export const info = {
       summary:
           "Summary: Kushki is one of the leading payment platforms in Latin America. Being a world class PayTech, Kushki is also one of the few unicorn startups in its region with over $180 million dollars in funding",
       description: [
-        "✓ Led multiple SPA projects using React JS + TypeScript, delighting millions of users across 5 countries in Latin America, driving significant revenue generation during my tenure at Kushki",
+        "✓ Led multiple SPA projects using React JS + TypeScript, delighting millions of users across 5 countries in Latin America, driving significant revenue generation during my tenure at Kushki.",
         "✓ Played important role in contributing to Kushki's growth and achieving unicorn status, marking a milestone in the company's success.",
         "✓ Championed developments that not only satisfied existing users but also streamlined processes, making it appealing for new businesses to affiliate with Kushki.",
         "✓ Automated and optimized commerce migration across five Latin American countries, leveraging Scala and AWS Glue.",
